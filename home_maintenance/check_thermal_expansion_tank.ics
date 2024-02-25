@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+RRULE:FREQ=MONTHLY;BYSETPOS=-1;BYDAY=SA;INTERVAL=6
+SUMMARY:Check Thermal Expansion Tank
+DTSTART;VALUE=DATE:20240224
+SEQUENCE:0
+DESCRIPTION: Tap on the tank to see if it sounds filled with water. If it does, release some air from the charging valve. If it leaks water, probably need a new tank.
+END:VEVENT
+END:VCALENDAR
